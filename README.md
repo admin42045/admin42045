@@ -16,7 +16,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Software Engineer, Frontend || Backend || Full Stack & I'do open source contrubutes <img  src="https://media.giphy.com/media/ybWViDh7xHEZZhKifx/giphy.gif" width="30"  height="20"> from <b style="color:yellow"> India</b>.
+I am a Software Engineer, Frontend || Backend || Full Stack & I'do open source contrubutes from India</b>.
 - I’m working as a Software Engineer and building large scale web applications.
 
 #### :fire: My Stats :
